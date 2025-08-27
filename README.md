@@ -10,7 +10,7 @@ JobMatcher Pro is designed to **automatically classify resumes** into predefined
 
 ---
 
-## 📺 [Video Demo](https://drive.google.com/file/d/1gv13ph3lGNSg6I8k3GayTkGJSaUdKUiS/view?usp=sharing)
+## 📺 [Video Demo](https://drive.google.com/file/d/19BQ78l64V4xdwi8SitwsVPiiMN8JGbB-/view?usp=sharing)
 
 ---
 
