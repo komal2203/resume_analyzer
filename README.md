@@ -197,7 +197,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📧 Contact
 
-For questions or suggestions, please contact [shivam2048sinha@gmail.com].
+For questions or suggestions, please contact [komalmeena220303@gmail.com].
 
 ---
 
