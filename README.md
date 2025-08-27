@@ -1,12 +1,12 @@
-# 📝 JobMatcher PRO
+# 📝 RoleMatcher AI
 
-Welcome to **JobMatcher Pro**, an end-to-end intelligent resume classification platform leveraging NLP and machine learning to automate and enhance the recruitment process.
+Welcome to **RoleMatcher AI**, an end-to-end intelligent resume classification platform leveraging NLP and machine learning to automate and enhance the recruitment process.
 
 ---
 
 ## 🚀 Project Overview
 
-JobMatcher Pro is designed to **automatically classify resumes** into predefined job categories, streamlining the screening process for recruiters and HR professionals. The system extracts text from uploaded resumes (PDF/DOCX), preprocesses it, and uses advanced ML models to predict the most suitable job category. The platform provides a modern web interface, supports multiple classification models, and displays confidence scores for predictions.
+RoleMatcher AI is designed to **automatically classify resumes** into predefined job categories, streamlining the screening process for recruiters and HR professionals. The system extracts text from uploaded resumes (PDF/DOCX), preprocesses it, and uses advanced ML models to predict the most suitable job category. The platform provides a modern web interface, supports multiple classification models, and displays confidence scores for predictions.
 
 ---
 
